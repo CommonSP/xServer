@@ -1,0 +1,37 @@
+[
+  {
+    "SteamId": "44561198064094284",
+    "IpAddress": "192.156.532.322",
+    "BanStart": "09.04.2021",
+    "BanEnd": "02.12.2021",
+    "Reason": "Cheating"
+  },
+  {
+    "SteamId": "76561198064093284",
+    "IpAddress": "192.156.532.322",
+    "BanStart": "09.04.2021",
+    "BanEnd": "02.12.2021",
+    "Reason": "Cheating"
+  },
+  {
+    "SteamId": "1117656119806443594284",
+    "IpAddress": "192.156.532.322",
+    "BanStart": "09.04.2021",
+    "BanEnd": "02.12.2021",
+    "Reason": "Cheating"
+  },
+  {
+    "SteamId": "2227656119806443594284",
+    "IpAddress": "192.156.532.322",
+    "BanStart": "09.04.2021",
+    "BanEnd": "02.12.2021",
+    "Reason": "Cheating"
+  },
+  {
+    "SteamId": "2227656119806443593334284",
+    "IpAddress": "192.156.532.322",
+    "BanStart": "09.04.2021",
+    "BanEnd": "02.12.2021",
+    "Reason": "Cheating"
+  }
+]
